@@ -11,7 +11,7 @@ My name is Hung. I am a highly self-motivated young student with a strong backgr
 
 ### More Information
 
-Bachelor of Engineering}, University of Information Technology - VNUHCM, Vietnam,
+**Bachelor of Engineering**, University of Information Technology - VNUHCM, Vietnam,
 
 Advanced Program in Information System.
 
