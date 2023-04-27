@@ -11,11 +11,17 @@ My name is Hung. I am a highly self-motivated young student with a strong backgr
 
 ### More Information
 
-**Bachelor of Engineering**, University of Information Technology - VNUHCM, Vietnam,
+**Bachelor of Engineering**, University of Information Technology - VNUHCM, Vietnam 
+
+2018-2023
 
 Advanced Program in Information System.
 
-GPA: 8.21/10
+GPA: 8.21/10 
+
+**Master of Engineering**, Soongsil Unversity, Korea
+
+Computer Science 
 
 
 ### Contact me
