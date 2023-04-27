@@ -11,6 +11,10 @@ description: Artificial intelligence researcher
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://user-images.githubusercontent.com/79694464/234895483-8c40b559-2ae7-47f7-babe-45b071cab142.jpg
 
+# Comment disqus
+layout: default
+comments: true
+
 #
 # Flags below are optional
 #
