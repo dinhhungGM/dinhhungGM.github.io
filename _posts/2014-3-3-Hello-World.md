@@ -3,4 +3,4 @@ layout: post
 title: You're up and running!
 published: true
 ---
-\perp\!\!\!\perp 
+$$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$
